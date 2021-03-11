@@ -1,2 +1,2 @@
-# huasheng.github.io
+# .github.io
 tech info introduction
